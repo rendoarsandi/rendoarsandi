@@ -49,5 +49,4 @@ A high-concurrency bot built in **Go** that trades decentralized prediction mark
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=rendoarsandi&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta" alt="GitHub Streak" />
 </div>
-<!-- sync: 2026-08-29 -->
-
+<!-- sync: 2026-07-31 -->

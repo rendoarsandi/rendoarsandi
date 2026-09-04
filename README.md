@@ -13,6 +13,13 @@
 ### ⚡ Flagship: Autonomous Prediction Market Engine
 > 🔒 **Proprietary / Private Production**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-1154-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Lines_of_Go-91.8k-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Lines of Go" />
+  <img src="https://img.shields.io/badge/Go_Files-251-4B8BBE?style=for-the-badge&logo=files&logoColor=white" alt="Go Files" />
+  <img src="https://img.shields.io/badge/Test_Cases-1086_Passing-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Tests" />
+</p>
+
 A high-concurrency bot built in **Go** that trades decentralized prediction markets (Polymarket / Polygon) autonomously:
 - **Real-Time Arbitrage**: Dual WebSocket feeds detecting structural mispricings (`Ask(YES) + Ask(NO) < $1.00`) to lock in instant spreads.
 - **Dynamic Inventory**: Pre-splits collateral into binary pairs and offloads into panic buying spikes.
@@ -36,6 +43,10 @@ A high-concurrency bot built in **Go** that trades decentralized prediction mark
 
 ---
 
+### 📊 GitHub Activity & Streak
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendoarsandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rendoarsandi&theme=tokyonight" alt="GitHub Profile Summary" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=rendoarsandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>

@@ -12,8 +12,8 @@
 > **Currently Private**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1%2C231-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Lines_of_Go-82.4k-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Lines of Go" />
+  <img src="https://img.shields.io/badge/Commits-1%2C232-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Lines_of_Go-82.2k-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Lines of Go" />
   <img src="https://img.shields.io/badge/Go_Files-199-4B8BBE?style=for-the-badge&logo=files&logoColor=white" alt="Go Files" />
   <img src="https://img.shields.io/badge/Test_Cases-964_Passing-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Tests" />
 </p>

@@ -12,10 +12,10 @@
 > **Currently Private**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1%2C360-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Lines_of_Go-107.0k-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Lines of Go" />
-  <img src="https://img.shields.io/badge/Go_Files-343-4B8BBE?style=for-the-badge&logo=files&logoColor=white" alt="Go Files" />
-  <img src="https://img.shields.io/badge/Test_Cases-1064_Passing-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Tests" />
+  <img src="https://img.shields.io/badge/Commits-1%2C363-blue?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Lines_of_Go-108.6k-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Lines of Go" />
+  <img src="https://img.shields.io/badge/Go_Files-348-4B8BBE?style=for-the-badge&logo=files&logoColor=white" alt="Go Files" />
+  <img src="https://img.shields.io/badge/Test_Cases-1070_Passing-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Tests" />
 </p>
 
 A high-concurrency bot built in **Go** that trades decentralized prediction markets (Polymarket / Polygon) autonomously:

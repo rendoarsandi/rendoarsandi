@@ -27,6 +27,8 @@ A high-concurrency bot built in **Go** that trades decentralized prediction mark
 
 ### Side random project
 
+- **[`youtube-adblock`](https://github.com/rendoarsandi/youtube-adblock)** — Ad-filtering patch & non-root APK build pipeline for YouTube.
+- **[`youtube-music-adblock`](https://github.com/rendoarsandi/youtube-music-adblock)** — Client-side ad suppression & microG compatibility patches for YouTube Music.
 - **[`chess-LLM`](https://github.com/rendoarsandi/chess-LLM)** — Experiments with LLM spatial reasoning & chess heuristics.
 - **[`chrome-control`](https://github.com/rendoarsandi/chrome-control)** — Headless browser automation workflows.
 - **[`startup-os`](https://github.com/rendoarsandi/startup-os)** — Internal business tooling & dashboard architecture.

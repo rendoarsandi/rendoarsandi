@@ -47,6 +47,6 @@ A high-concurrency bot built in **Go** that trades decentralized prediction mark
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rendoarsandi&theme=tokyonight" alt="GitHub Profile Summary" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=rendoarsandi&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rendoarsandi&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta&starting_year=2023" alt="GitHub Streak" />
 </div>
 <!-- sync: 2026-11-06 -->
